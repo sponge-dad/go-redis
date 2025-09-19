@@ -1,0 +1,6 @@
+2025/09/08 17:34:58 [ERROR][handler.go:76] require multi bulk reply error
+2025/09/08 17:34:58 [ERROR][handler.go:76] require multi bulk reply error
+2025/09/08 17:35:01 [ERROR][handler.go:76] require multi bulk reply error
+2025/09/08 17:35:01 [ERROR][handler.go:76] require multi bulk reply error
+2025/09/08 17:37:52 [ERROR][handler.go:76] require multi bulk reply error
+2025/09/08 23:32:55 [ERROR][handler.go:58] connection closed: 127.0.0.1:12156

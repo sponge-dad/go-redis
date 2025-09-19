@@ -1,0 +1,5 @@
+2025/09/09 00:01:32 [ERROR][aof.go:112] parse error: protocol error
+
+2025/09/09 00:03:18 [ERROR][aof.go:112] parse error: protocol error
+
+2025/09/09 00:06:51 [ERROR][handler.go:58] connection closed: 127.0.0.1:9335
